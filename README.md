@@ -14,18 +14,8 @@
 To install and use Zip-C, you need to have Python 3 installed on your system. You can download and install the required dependencies using pip:
 
 ```sh
-pip install -r requirements.txt
-
 pkg install python
-
 git clone https://github.com/KiNGEX1/Zip-C.git
 cd Zip-C
 bash requirements.sh
-
 python Zip-C
-
-
-
-
-
-
