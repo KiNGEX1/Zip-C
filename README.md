@@ -6,8 +6,6 @@
 
 - **Brute-force Attack**: Attempts all possible combinations to crack the password.
 - **Dictionary Attack**: Uses a pre-defined list of words to guess the password.
-- **Multithreading**: Supports multithreading to speed up the cracking process.
-- **Customizable**: Allows customization of attack parameters such as character set and password length.
 
 ## Installation
 
